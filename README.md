@@ -1,13 +1,9 @@
 # PYNQ_251_TySOM-3-ZU7EV_pre-built
 
-# Table of Content
+## Table of Content
 1. [How to download](#how_to_download)
 2. [TySOM](#tysom_main)
 3. [Pre-buil image for PYNQ](#pre_built_image)
-
-## Table of Content
-1. [How to download](#how_to_download)
-1. [TySOM](#tysom_main)
 
 <a name="how_to_download"/>
 
